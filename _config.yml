@@ -11,10 +11,10 @@ url: "http://xiao.zifan.online/" # the base hostname & protocol for your site, e
 author: 蚊子向前冲 # add your name
 author-img: libai.jpg # add your photo
 about-author: 满招损，谦受益 # add description
-twitter: # add your Twitter handle
-facebook: # add your Facebook handle
-github: artemsheludko # add your Github handle
-linkedin: # add your Linkedin handle
+# twitter: # add your Twitter handle
+# facebook: # add your Facebook handle
+# github: artemsheludko # add your Github handle
+# linkedin: # add your Linkedin handle
 email: 715294035@qq.com # add your Email address
 
 # Disqus
