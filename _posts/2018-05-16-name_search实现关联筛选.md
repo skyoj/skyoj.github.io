@@ -2,6 +2,7 @@
 例如采购订单中根据选中的供应商，筛选产品
 
 >- view代码：
+
 ```xml
 <field name="product_id"
 attrs="{'readonly': [('state', 'in', ('purchase', 'to approve','done', 'cancel'))]}"
@@ -9,6 +10,7 @@ context="{'vendor_id':parent.partner_id,'partner_id':parent.partner_id, 'quantit
 force_save="1"/>
 ```
 >- py代码
+
 ```python
 @api.model
     def name_search(self, name='', args=None, operator='ilike', limit=100):
