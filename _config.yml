@@ -8,7 +8,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://xiao.zifan.online/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author Settings
-author: 蚊子向前冲 # add your name
+author: 长安一片耶 # add your name
 author-img: libai.jpg # add your photo
 about-author: 满招损，谦受益 # add description
 # twitter: # add your Twitter handle
